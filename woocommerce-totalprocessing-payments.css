@@ -1,0 +1,9 @@
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-name {
+      font-size: 1.5em;
+      padding: 8px;
+      background-repeat: no-repeat;
+      background-position: right;
+}
+.woocommerce-checkout .getting-token {
+	opacity: .5;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 352" style="enable-background:new 0 0 512 352;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#C7D7E2;}
+	.st2{fill:#454B54;}
+</style>
+<g>
+	<path class="st0" d="M436,316H76c-22,0-40-18-40-40V76c0-22,18-40,40-40h360c22,0,40,18,40,40v200C476,298,458,316,436,316z"/>
+	<rect x="36" y="76" class="st1" width="440" height="60"/>
+	<rect x="76" y="196" class="st1" width="48" height="24"/>
+	<rect x="76" y="236" class="st1" width="188" height="24"/>
+	<rect x="148" y="196" class="st1" width="48" height="24"/>
+	<rect x="220" y="196" class="st1" width="48" height="24"/>
+	<rect x="292" y="196" class="st1" width="48" height="24"/>
+	<path class="st2" d="M436,328H76c-28.8,0-52-23.2-52-52V76c0-28.8,23.2-52,52-52h360c28.8,0,52,23.2,52,52v200
+		C488,304.8,464.8,328,436,328z M76,48c-15.6,0-28,12.4-28,28v200c0,15.6,12.4,28,28,28h360c15.6,0,28-12.4,28-28V76
+		c0-15.6-12.4-28-28-28H76z"/>
+</g>
+</svg>

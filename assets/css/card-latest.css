@@ -1,0 +1,14 @@
+.swal2-popup {
+    width: auto !important;
+    padding: 0 !important;
+    background: transparent !important;
+}
+
+.swal2-content {
+    padding: 0 !important;
+    zoom: 1.2 !important;
+}
+
+.wpwl-form {
+    margin: 0 !important;
+}
